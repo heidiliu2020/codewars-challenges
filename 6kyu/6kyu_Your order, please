@@ -1,0 +1,25 @@
+// https://www.codewars.com/kata/55c45be3b2079eccff00010f
+
+function order(words){
+  let arr = words.split(' ');
+  let result = '';
+  for(let i = 1; i <= 9; i++) {
+    let target = arr.filter(str => str.includes(i))[0];
+    if (target) {
+      if (i == 1) {
+        result = target;
+      } else {
+        result += ' ' + target;
+      } 
+    }
+  }
+  return result;
+}
+
+// Refactor
+// arr.sort([compareFunction]) https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+// arr.join([separator]) https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/join
+// \d means any number. It's alias of [0-9]
+function order(words){
+  return words.split(' ').sort((a, b) => a.match(/\d/) - b.match(/\d/)).join(' ');
+}

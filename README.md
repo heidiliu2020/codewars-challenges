@@ -1,8 +1,10 @@
 # codewars-challenges
 
-A collection of [Codewars](https://www.codewars.com) Katas Solutions in JavaScript by Heidi Liu.
+A collection of [Codewars](https://www.codewars.com) Katas Solutions in JavaScript by [Heidi-Liu](https://www.codewars.com/users/Heidi-Liu).
 
-My Current [Codewars]((https://www.codewars.com/users/Heidi-Liu)) Rank: ![](https://www.codewars.com/users/Heidi-Liu/badges/large)
+Currentt Profile Stats:
+
+[![Codewars](https://github.r2v.ch/codewars?user=Heidi-Liu&top_languages=true&hide_clan=true&animation=false)]((https://www.codewars.com/users/Heidi-Liu))
 
 ### 6kyu
 

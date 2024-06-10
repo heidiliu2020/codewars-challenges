@@ -11,6 +11,8 @@ Current Profile Stats:
 + [WeIrD StRiNg CaSe](https://www.codewars.com/kata/52b757663a95b11b3d00062d)
 + [Persistent Bugger](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)
 + [Your order, please](https://www.codewars.com/kata/55c45be3b2079eccff00010f)
++ [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
++ [Roman Numerals Encoder](https://www.codewars.com/kata/51b62bf6a9c58071c600001b)
 
 ### 5kyu
 

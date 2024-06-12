@@ -12,6 +12,7 @@ Current Profile Stats:
 ### 5kyu
 
 + [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc)
++ [Number of trailing zeros of N!](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34)
 
 ### 6kyu
 
@@ -21,6 +22,7 @@ Current Profile Stats:
 + [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006)
 + [Roman Numerals Encoder](https://www.codewars.com/kata/51b62bf6a9c58071c600001b)
 + [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
++ [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
 
 ### 7kyu
 

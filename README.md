@@ -25,9 +25,11 @@ Current Profile Stats:
 + [Stop gninnipS My sdroW!](https://www.codewars.com/kata/5264d2b162488dc400000001)
 + [Sum of Digits / Digital Root](https://www.codewars.com/kata/541c8630095125aba6000c00)
 + [Array.diff](https://www.codewars.com/kata/523f5d21c841566fde000009)
++ [Give me a Diamond](https://www.codewars.com/kata/5503013e34137eeeaa001648)
 
 ### 7kyu
 
 + [Vowel Count](https://www.codewars.com/kata/54ff3102c1bad923760001f3)
 + [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
 + [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020)
++ [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)

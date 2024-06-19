@@ -36,6 +36,7 @@ Current Profile Stats:
 + [Disemvowel Trolls](https://www.codewars.com/kata/52fba66badcd10859f00097e)
 + [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020)
 + [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
++ [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
 
 ### 8kyu
 

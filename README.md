@@ -29,6 +29,8 @@ Current Profile Stats:
 + [IP Validation](https://www.codewars.com/kata/515decfd9dcfc23bb6000006)
 + [Highest Scoring Word](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272)
 + [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
++ [_Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
++ [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 
 ### 7kyu
 
@@ -37,6 +39,7 @@ Current Profile Stats:
 + [Square Every Digit](https://www.codewars.com/kata/546e2562b03326a88e000020)
 + [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
 + [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
++ [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
 
 ### 8kyu
 

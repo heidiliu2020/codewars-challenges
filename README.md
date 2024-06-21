@@ -31,6 +31,7 @@ Current Profile Stats:
 + [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 + [_Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
 + [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
++ [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 
 ### 7kyu
 
@@ -40,6 +41,8 @@ Current Profile Stats:
 + [Get the Middle Character](https://www.codewars.com/kata/56747fd5cb988479af000028)
 + [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c)
 + [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
++ [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
++ [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
 
 ### 8kyu
 

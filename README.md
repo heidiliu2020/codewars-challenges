@@ -32,6 +32,7 @@ Current Profile Stats:
 + [_Bit Counting](https://www.codewars.com/kata/526571aae218b8ee490006f4)
 + [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 + [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
++ [Dashatize it](https://www.codewars.com/kata/58223370aef9fc03fd000071)
 
 ### 7kyu
 

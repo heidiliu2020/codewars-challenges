@@ -14,6 +14,7 @@ Current Profile Stats:
 + [Weight for weight](https://www.codewars.com/kata/55c6126177c9441a570000cc)
 + [Number of trailing zeros of N!](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34)
 + [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
++ [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 
 ### 6kyu
 
@@ -33,6 +34,8 @@ Current Profile Stats:
 + [Counting Duplicates](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1)
 + [Find The Parity Outlier](https://www.codewars.com/kata/5526fc09a1bbd946250002dc)
 + [Dashatize it](https://www.codewars.com/kata/58223370aef9fc03fd000071)
++ [Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
++ [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667)
 
 ### 7kyu
 

@@ -15,6 +15,7 @@ Current Profile Stats:
 + [Number of trailing zeros of N!](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34)
 + [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 + [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
++ [Simple Pig Latin](https://www.codewars.com/kata/55c6126177c9441a570000cc)
 
 ### 6kyu
 

@@ -36,6 +36,8 @@ Current Profile Stats:
 + [Dashatize it](https://www.codewars.com/kata/58223370aef9fc03fd000071)
 + [Take a Ten Minutes Walk](https://www.codewars.com/kata/54da539698b8a2ad76000228)
 + [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667)
++ [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
++ [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 
 ### 7kyu
 

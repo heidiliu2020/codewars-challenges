@@ -8,6 +8,7 @@ Current Profile Stats:
 
 ### 4kyu
 
++ [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
 
 ### 5kyu
 
@@ -16,6 +17,7 @@ Current Profile Stats:
 + [Calculating with Functions](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 + [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 + [Simple Pig Latin](https://www.codewars.com/kata/55c6126177c9441a570000cc)
++ [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 
 ### 6kyu
 

@@ -9,6 +9,7 @@ Current Profile Stats:
 ### 4kyu
 
 + [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
++ [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)
 
 ### 5kyu
 

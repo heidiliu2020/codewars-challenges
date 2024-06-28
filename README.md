@@ -19,6 +19,7 @@ Current Profile Stats:
 + [Moving Zeros To The End](https://www.codewars.com/kata/52597aa56021e91c93000cb0)
 + [Simple Pig Latin](https://www.codewars.com/kata/55c6126177c9441a570000cc)
 + [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
++ [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)
 
 ### 6kyu
 

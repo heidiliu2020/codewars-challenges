@@ -20,6 +20,7 @@ Current Profile Stats:
 + [Simple Pig Latin](https://www.codewars.com/kata/55c6126177c9441a570000cc)
 + [Human Readable Time](https://www.codewars.com/kata/52685f7382004e774f0001f7)
 + [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)
++ [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
 
 ### 6kyu
 

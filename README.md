@@ -10,6 +10,7 @@ Current Profile Stats:
 
 + [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
 + [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)
++ [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)
 
 ### 5kyu
 
@@ -22,6 +23,7 @@ Current Profile Stats:
 + [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001)
 + [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
 + [Product of consecutive Fib numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
++ [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 
 ### 6kyu
 

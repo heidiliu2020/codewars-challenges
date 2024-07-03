@@ -11,6 +11,7 @@ Current Profile Stats:
 + [Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1)
 + [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)
 + [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)
++ [The observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d)
 
 ### 5kyu
 
@@ -58,6 +59,7 @@ Current Profile Stats:
 + [Highest and Lowest](https://www.codewars.com/kata/554b4ac871d6813a03000035)
 + [You're a square!](https://www.codewars.com/kata/54c27a33fb7da0db0100040e)
 + [List Filtering](https://www.codewars.com/kata/53dbd5315a3c69eed20002dd)
++ [Descending Order](https://www.codewars.com/kata/5467e4d82edf8bbf40000155)
 
 ### 8kyu
 

@@ -48,6 +48,7 @@ Current Profile Stats:
 + [Unique In Order](https://www.codewars.com/kata/54e6533c92449cc251001667)
 + [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 + [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
++ [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 
 ### 7kyu
 

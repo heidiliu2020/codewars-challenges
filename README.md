@@ -49,6 +49,8 @@ Current Profile Stats:
 + [Create Phone Number](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 + [Duplicate Encoder](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)
 + [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
++ [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db)
++ [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
 
 ### 7kyu
 

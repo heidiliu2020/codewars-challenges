@@ -16,6 +16,8 @@
   Output = "20 8 5 19 21 14 19 5 20 19 5 20 19 1 20 20 23 5 12 22 5 15 3 12 15 3 11"
  */
 
+  // String.prototype.charCodeAt()
+  // 'a'.charCodeAt() => 97
   function alphabetPosition(text) {
     let result = '';
     text.toLowerCase().split('').map(a => {
@@ -25,9 +27,10 @@
   }
 
   // Other solution
+  // 'A'.charCodeAt() => 65
   let alphabetPosition = (text) =>        // 'The sunset.'
     text.toUpperCase()                    // 'THE SUNSET.'
       .replace(/[^A-Z]/g, '')             // 'THESUNSET'
-      .split('')
-      .map(ch => ch.charCodeAt(0) - 64)
-      .join(' ');
+      .split('')                          // ['T', 'H', 'E', 'S', 'U', 'N', 'S', 'E', 'T']
+      .map(ch => ch.charCodeAt(0) - 64)   // [20, 8, 5, 19, 21, 14, 19, 5, 20]
+      .join(' ');                         // '20 8 5 19 21 14 19 5 20'

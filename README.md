@@ -12,6 +12,7 @@ Current Profile Stats:
 + [Human readable duration format](https://www.codewars.com/kata/52742f58faf5485cae000b9a)
 + [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)
 + [The observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d)
++ [Decode the Morse code, advanced](https://www.codewars.com/kata/decode-the-morse-code-advanced)
 
 ### 5kyu
 
@@ -51,6 +52,7 @@ Current Profile Stats:
 + [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da)
 + [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db)
 + [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
++ [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e)
 
 ### 7kyu
 

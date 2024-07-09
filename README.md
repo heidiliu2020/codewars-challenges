@@ -26,6 +26,7 @@ Current Profile Stats:
 + [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c)
 + [Product of consecutive Fib numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
 + [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a)
++ [Find the unique string](https://www.codewars.com/kata/585d8c8a28bc7403ea0000c3)
 
 ### 6kyu
 
@@ -53,6 +54,7 @@ Current Profile Stats:
 + [Tribonacci Sequence](https://www.codewars.com/kata/556deca17c58da83c00002db)
 + [Detect Pangram](https://www.codewars.com/kata/545cedaa9943f7fe7b000048)
 + [Decode the Morse code](https://www.codewars.com/kata/54b724efac3d5402db00065e)
++ [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
 
 ### 7kyu
 

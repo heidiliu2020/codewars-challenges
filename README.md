@@ -57,6 +57,7 @@ Current Profile Stats:
 + [Find the unique number](https://www.codewars.com/kata/585d7d5adb20cf33cb000235)
 + [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050)
 + [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
++ [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c)
 
 ### 7kyu
 

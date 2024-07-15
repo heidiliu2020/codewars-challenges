@@ -27,6 +27,7 @@ Current Profile Stats:
 + [Product of consecutive Fib numbers](https://www.codewars.com/kata/5541f58a944b85ce6d00006a)
 + [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 + [Find the unique string](https://www.codewars.com/kata/585d8c8a28bc7403ea0000c3)
++ [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)
 
 ### 6kyu
 
@@ -58,6 +59,7 @@ Current Profile Stats:
 + [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050)
 + [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
 + [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c)
++ [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005)
 
 ### 7kyu
 

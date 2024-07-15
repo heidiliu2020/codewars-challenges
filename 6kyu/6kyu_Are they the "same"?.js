@@ -38,6 +38,10 @@ Examples
 
   */
   
+  // Array.prototype.splice():  changes the contents of an array by removing or replacing existing elements and/or adding new elements in place
+  // splice(start)
+  // splice(start, deleteCount)
+  // splice(start, deleteCount, item1...)
   function comp(array1, array2){
     if (array1 == null || array2 == null) return false;
     let arr = array2.map(e => Math.sqrt(e));
@@ -68,3 +72,4 @@ Examples
   function comp(a, b) {
     return !!a && !!b && a.map(x => x * x).sort().join() == b.sort().join();
   }
+  

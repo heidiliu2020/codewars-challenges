@@ -28,6 +28,7 @@ Current Profile Stats:
 + [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 + [Find the unique string](https://www.codewars.com/kata/585d8c8a28bc7403ea0000c3)
 + [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)
++ [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b)
 
 ### 6kyu
 
@@ -60,6 +61,7 @@ Current Profile Stats:
 + [Equal Sides Of An Array](https://www.codewars.com/kata/5679aa472b8f57fb8c000047)
 + [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c)
 + [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005)
++ [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
 
 ### 7kyu
 

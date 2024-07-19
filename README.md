@@ -62,6 +62,7 @@ Current Profile Stats:
 + [Are they the "same"?](https://www.codewars.com/kata/550498447451fbbd7600041c)
 + [Roman Numerals Decoder](https://www.codewars.com/kata/51b6249c4612257ac0000005)
 + [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
++ [The Supermarket Queue](https://www.codewars.com/kata/57b06f90e298a7b53d000a86)
 
 ### 7kyu
 

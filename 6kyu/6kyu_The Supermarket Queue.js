@@ -46,8 +46,8 @@
     const arr = new Array(n).fill(0);              // [0, 0, 0...] => Array.length == n
   
     for (let i = 0; i < customers.length; i++) {
-      const minTime = arr.indexOf(Math.min(...arr));
-      arr[minTime] += customers[i];
+      const minTimeIdx = arr.indexOf(Math.min(...arr));
+      arr[minTimeIdx] += customers[i];
     }
   
     return Math.max(...arr);  // the longest waitTime

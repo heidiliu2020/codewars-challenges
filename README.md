@@ -29,6 +29,7 @@ Current Profile Stats:
 + [Find the unique string](https://www.codewars.com/kata/585d8c8a28bc7403ea0000c3)
 + [The Hashtag Generator](https://www.codewars.com/kata/52449b062fb80683ec000024)
 + [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b)
++ [String incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)
 
 ### 6kyu
 

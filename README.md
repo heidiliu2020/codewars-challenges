@@ -65,6 +65,7 @@ Current Profile Stats:
 + [Two Sum](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
 + [The Supermarket Queue](https://www.codewars.com/kata/57b06f90e298a7b53d000a86)
 + [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
++ [Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023)
 
 
 ### 7kyu

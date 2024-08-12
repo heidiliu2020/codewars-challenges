@@ -67,7 +67,7 @@ Current Profile Stats:
 + [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)
 + [Delete occurrences of an element if it occurs more than n times](https://www.codewars.com/kata/554ca54ffa7d91b236000023)
 + [Consecutive strings](https://www.codewars.com/kata/56a5d994ac971f1ac500003e)
-
++ [Is a number prime?](https://www.codewars.com/kata/5262119038c0985a5b00029f)
 
 ### 7kyu
 

@@ -13,6 +13,7 @@ Current Profile Stats:
 + [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)
 + [The observed PIN](https://www.codewars.com/kata/5263c6999e0f40dee200059d)
 + [Decode the Morse code, advanced](https://www.codewars.com/kata/decode-the-morse-code-advanced)
++ [Next bigger number with the same digits](https://www.codewars.com/kata/55983863da40caa2c900004e)
 
 ### 5kyu
 
